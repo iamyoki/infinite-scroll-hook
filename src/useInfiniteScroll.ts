@@ -6,6 +6,7 @@ type Options = {
   onLoadMore?: () => Promise<void>;
 };
 
+/** useInfiniteScroll */
 export function useInfiniteScroll(options?: Options) {
   const {offset = '0px', shouldStop = false, onLoadMore} = options ?? {};
 
