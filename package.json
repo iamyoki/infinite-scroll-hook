@@ -1,5 +1,5 @@
 {
-  "name": "qhlab-library-template",
+  "name": "infinite-scroll-hook",
   "version": "0.0.1",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/QhlabTeam/qhlab-library-template.git"
+    "url": "https://github.com/iamyoki/infinite-scroll-hook.git"
   },
   "license": "MIT",
   "scripts": {

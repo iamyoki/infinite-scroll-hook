@@ -1,1 +1,1 @@
-export * from '.'; // change it to your module
+export * from './useInfiniteScroll';
