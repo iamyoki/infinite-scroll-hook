@@ -35,6 +35,7 @@
   - [Offset](#offset)
   - [Stop load more](#stop-load-more)
 - [API Reference](#api-reference)
+- [Also see these amazing hooks](#also-see-these-amazing-hooks)
 - [License](#license)
 
 <br>
@@ -133,6 +134,13 @@ return (
 | :------------- | :----------------------- | :-------------------------------------------------- |
 | `containerRef` | `LegacyRef<HTMLElement>` | The ref object attach to your jsx container element |
 | `isLoading`    | `boolean`                | Whether is loading or not                           |
+
+## Also see these amazing hooks
+
+| Repo                                                                      | Intro                                                     |
+| :------------------------------------------------------------------------ | :-------------------------------------------------------- |
+| [☄️ transition-hook](https://github.com/iamyoki/transition-hook)           | An extremely light-weight react transition animation hook |
+| [🧻 infinite-scroll-hook](https://github.com/iamyoki/infinite-scroll-hook) | Scroll down to load more never been so easy!              |
 
 ## License
 
