@@ -9,9 +9,15 @@
     "dist"
   ],
   "author": "Yoki Yu <yokiyuqian@gmail.com>",
-  "description": "A template make make open-source library never been so easy.",
+  "description": "🧻 Scroll down to load more never been so easy!",
   "keywords": [
-    "react"
+    "react",
+    "infinite-scroll",
+    "react-infinite-scroll",
+    "hooks",
+    "hook",
+    "infinite-scroll-hook",
+    "components"
   ],
   "repository": {
     "type": "git",
