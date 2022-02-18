@@ -1,0 +1,17 @@
+## 1.0.0 (2022-02-18)
+
+
+### Features
+
+* add useInfiniteScroll hook ([45d203d](https://github.com/iamyoki/infinite-scroll-hook/commit/45d203d2b0ec428bf369599ca5e137d0accd5124))
+
+
+### Docs
+
+* update readme ([3457129](https://github.com/iamyoki/infinite-scroll-hook/commit/34571297d64552f37db9a8129349ea290a2adecc))
+
+
+### Chores
+
+* clean structure ([745566a](https://github.com/iamyoki/infinite-scroll-hook/commit/745566a6f1b692442589386d7720429566ef0e43))
+* comment ([ffbce41](https://github.com/iamyoki/infinite-scroll-hook/commit/ffbce410b9e5d6457aed0e09a6ee8b8acac65918))
