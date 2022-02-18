@@ -1,3 +1,10 @@
+### [1.0.2](https://github.com/iamyoki/infinite-scroll-hook/compare/v1.0.1...v1.0.2) (2022-02-18)
+
+
+### Docs
+
+* update readme ([451a53d](https://github.com/iamyoki/infinite-scroll-hook/commit/451a53d54d4e1fad1ad1c050ceddfc70c6dec74c))
+
 ### [1.0.1](https://github.com/iamyoki/infinite-scroll-hook/compare/v1.0.0...v1.0.1) (2022-02-18)
 
 
